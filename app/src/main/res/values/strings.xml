@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">projectA</string>
+    <string name="btn1">Test</string>
+    <string name="nissan">Nissan GTR</string>
+    <string name="nama">Name :</string>
+    <string name="phone">Phone :</string>
+    <string name="address">Address :</string>
+    <string name="Enter">Enter Your Name</string>
+    <string name="enterph">Enter Your Phone Number</string>
+    <string name="enterad">Enter Your Address</string>
+    <string name="submit">Submit</string>
+    <string name="click">Click</string>
+    <string name="btnn">Button 1</string>
+    <string name="btn2">Button 2</string>
+    <string name="mtcprnt">Match Parent</string>
+    <string name="R">Right</string>
+    <string name="L">Left</string>
+    <string name="SYC">Select Your Car</string>
+
+</resources>
